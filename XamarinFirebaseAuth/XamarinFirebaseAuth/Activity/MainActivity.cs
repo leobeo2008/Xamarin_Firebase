@@ -49,7 +49,7 @@ namespace XamarinFirebaseAuth
         private void InitFirebaseAuth()
         {
             var options = new FirebaseOptions.Builder()
-            .SetApplicationId("1:125031701484:android:0d1eb9a681af2460")
+            .SetApplicationId("1:125031701484:android:9de5b53b59fd4e7b")
             .SetApiKey("AIzaSyBUUdE2FGpT9Qtg9GXfKNvUiySiaR45ln0")
             .Build();
 
